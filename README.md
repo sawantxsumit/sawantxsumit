@@ -12,15 +12,16 @@ Other Skills: Data Analysis, Model Deployment, Problem Solving
 
 ## 🎯 What I’m Working On
 
-Enhancing ML project deployment skills
-
-Improving expertise in NLP & model explainability
-
-Adding more real-world projects to my portfolio
+- Enhancing ML project deployment skills
+- Improving expertise in NLP & model explainability
+- Adding more real-world projects to my portfolio
 
 ## 📫 Connect With Me
 
 📌 LinkedIn: https://www.linkedin.com/in/sawantxsumit
+
 📌 Leetcode: https://leetcode.com/u/2qDUD3NrJX/
+
 📌 Kaggle: https://www.kaggle.com/sawantxsumit
+
 📌 Email: sawantsumit297@gmail.com
