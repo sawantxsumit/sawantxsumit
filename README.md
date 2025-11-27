@@ -5,10 +5,12 @@ I’m passionate about building intelligent systems, solving real-world problems
 
 ## 🔧 Tech Stack & Skills
 
-Languages: Python, Java, SQL
-ML & AI: Scikit-Learn, TensorFlow, Fake News Detection, NLP
-Developer Tools: Git, GitHub, Streamlit
-Other Skills: Data Analysis, Model Deployment, Problem Solving
+- Languages: Python, Java, SQL
+- Python : Numpy , pandas , matplotlib , seaborn , scikit-learn , Tensorflow , NLTK
+- Machine Learning & AI
+- Natural Language processing
+- Developer Tools: Git, GitHub, Streamlit
+- Other Skills: Data Analysis, Model Deployment, Problem Solving
 
 ## 🎯 What I’m Working On
 
