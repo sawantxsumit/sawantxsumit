@@ -5,7 +5,7 @@ I’m passionate about building intelligent systems, solving real-world problems
 
 ## 🔧 Tech Stack & Skills
 
-- Languages: Python, Java, SQL
+- Languages: Python, Java, c
 - Python : Numpy , pandas , matplotlib , seaborn , scikit-learn , Tensorflow , NLTK
 - Machine Learning & AI
 - Natural Language processing
