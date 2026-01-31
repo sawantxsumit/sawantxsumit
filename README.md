@@ -10,6 +10,7 @@ I’m passionate about building intelligent systems, solving real-world problems
 - Machine Learning & AI
 - Natural Language processing
 - Developer Tools: Git, GitHub, Streamlit
+- Database : SQL
 - Other Skills: Data Analysis, Model Deployment, Problem Solving
 
 ## 🎯 What I’m Working On
